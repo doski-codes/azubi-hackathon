@@ -1,4 +1,4 @@
-# Ghana Rainfall and Flood Analysis for Azubi June 2020 hackathon
+# Ghana Rainfall and Flood Analysis for Azubi June 2020 Hackathon
 
 The analysis was done on two different datasets which were both obtained from Harvard Dataverse.
 
