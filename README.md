@@ -1,4 +1,4 @@
-# Ghana Rainfall and Flood Analysis for Azubi June 2020 Hackathon
+# Ghana Rainfall and Flood Analysis
 
 The analysis was done on two different datasets which were both obtained from Harvard Dataverse.
 
@@ -8,7 +8,11 @@ The results and inferences made are intended to help determine if rainfall is th
 
 ### DEPENDENCIES
 
-The following packages are required to run the notebook files which contains our data cleaning processes.
+The following packages are required to run the notebook file (`Hackathon.ipynb`)
+- `numpy`
+- `pandas`
+
+The notebook file contains our data cleaning processes.
 
 ### ANALYSIS
 
