@@ -8,7 +8,11 @@ The results and inferences made are intended to help determine if rainfall is th
 
 ### DEPENDENCIES
 
-The following packages are required to run the notebook files which contains our data cleaning processes.
+The following packages are required to run the notebook file (`Hackathon.ipynb`)
+- `numpy`
+- `pandas`
+
+The notebook file contains our data cleaning processes.
 
 ### ANALYSIS
 
